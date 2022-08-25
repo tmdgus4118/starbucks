@@ -10,11 +10,11 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
 function onYouTubeIframeAPIReady() {
   new YT.Player("player", {
-    videoId: "PXfI60QoHYY",
+    videoId: "c7Tg5uNTmfg",
     playerVars: {
       autoplay: true,
       loop: true,
-      playlist: "PXfI60QoHYY",
+      playlist: "c7Tg5uNTmfg",
     },
     events: {
       onReady: function (event) {
